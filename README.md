@@ -1,4 +1,4 @@
-# Introduction of the project: 
+# Introduction: 
 Crowdfunding enables projects to be funded by small contributions from many people online. Kickstarter is a popular platform where creators independently raise funds and offer rewards to backers.
 
 # Purpose: 
