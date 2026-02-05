@@ -25,7 +25,8 @@ The reports provide insights into around 365K projects created between 2009 and 
 # Screensorts of Tableau Report:
 <img width="1878" height="737" alt="Tableau_Kickstarter_Croudfunding_page1" src="https://github.com/user-attachments/assets/d9f9c6fd-ebf2-4e23-8d73-0d3dcad48cd5" />
 <img width="1876" height="744" alt="Tableau_Kickstarter_Croudfunding_page2" src="https://github.com/user-attachments/assets/02e4e0a6-3ee1-4ccc-bbf5-e5fe09606920" />
-<img width="1873" height="739" alt="Tableau_Kickstarter_Croudfunding_page3" src="https://github.com/user-attachments/assets/5183a845-fa15-478a-a5b4-3529398c710b" />
+<img width="1805" height="920" alt="image" src="https://github.com/user-attachments/assets/c5f95116-712b-4730-99db-7e3c0f369823" />
+
 
 # SQL Report:
 
